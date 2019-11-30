@@ -1,0 +1,12 @@
+{
+  "mode": "modules",
+  "out": "docs",
+  "name": "App Documentation",
+  "theme": "minimal",
+  "target": "ES6",
+  "jsx": "preserve",
+  "readme": "README.md",
+  "experimentalDecorators": true,
+  "categorizeByGroup": true,
+  "exclude": ["**/node_modules/**/*.*", "**/public/**/*.*"]
+}
